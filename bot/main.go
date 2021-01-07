@@ -18,7 +18,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/MemeLabs/overrustlelogs/common"
+	"github.com/b-ggs/overrustlelogs/common"
 )
 
 // log paths

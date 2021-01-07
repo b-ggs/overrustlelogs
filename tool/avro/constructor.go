@@ -1,6 +1,6 @@
 package avro
 
-import "github.com/MemeLabs/overrustlelogs/common"
+import "github.com/b-ggs/overrustlelogs/common"
 
 // NewMessageFromCommonMessage ...
 func NewMessageFromCommonMessage(channel string, m *common.Message) *Message {

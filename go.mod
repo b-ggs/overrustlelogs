@@ -1,4 +1,4 @@
-module github.com/MemeLabs/overrustlelogs
+module github.com/b-ggs/overrustlelogs
 
 go 1.12
 

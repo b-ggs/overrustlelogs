@@ -20,8 +20,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/MemeLabs/overrustlelogs/common"
-	"github.com/MemeLabs/overrustlelogs/tool/avro"
+	"github.com/b-ggs/overrustlelogs/common"
+	"github.com/b-ggs/overrustlelogs/tool/avro"
 	"github.com/actgardner/gogen-avro/container"
 	lz4 "github.com/cloudflare/golz4"
 	"github.com/pkg/profile"

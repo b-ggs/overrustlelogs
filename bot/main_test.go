@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/MemeLabs/overrustlelogs/common"
+	"github.com/b-ggs/overrustlelogs/common"
 )
 
 var b *Bot

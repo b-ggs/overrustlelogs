@@ -8,7 +8,7 @@ import (
 	"syscall"
 
 	//"overrustlelogs/common"
-	"github.com/MemeLabs/overrustlelogs/common"
+	"github.com/b-ggs/overrustlelogs/common"
 )
 
 func init() {

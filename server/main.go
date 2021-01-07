@@ -24,7 +24,7 @@ import (
 	"time"
 
 	"github.com/CloudyKit/jet"
-	"github.com/MemeLabs/overrustlelogs/common"
+	"github.com/b-ggs/overrustlelogs/common"
 	"github.com/gorilla/mux"
 	log "github.com/sirupsen/logrus"
 )
